@@ -7,3 +7,4 @@ for i in range(1, p):
         z = (i*j//p)*10 + (i*j)%p
         print(z, end = ' ')
     print()
+    
