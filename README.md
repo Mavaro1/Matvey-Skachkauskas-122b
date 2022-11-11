@@ -33,3 +33,5 @@ $$ tg\alpha=\frac{sin\alpha}{cos\alpha} $$
 $$ ctg\alpha=\frac{cod\alpha}{sin\alpha} $$
 
 $$ tg\alpha = \frac{1}{ctg\alpha} $$
+
+![lagrida_latex_editor (16)](https://user-images.githubusercontent.com/114716940/201263995-1c789bfc-2ba7-4b6e-a58b-85efd8cef9e1.png)
