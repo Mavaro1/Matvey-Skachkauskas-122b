@@ -27,3 +27,9 @@
 
 
 Сделал: Скачкаускас Матвей 122
+
+$$ tg\alpha=\frac{sin\alpha}{cos\alpha} $$
+
+$$ ctg\alpha=\frac{cod\alpha}{sin\alpha} $$
+
+$$ tg\alpha = \frac{1}{ctg\alpha} $$
